@@ -7,6 +7,12 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
+    "authors": [
+        {
+            "name": "test",
+            "email": "ecesankar93@gmail.com"
+        }
+    ],
     "autoload": {
         "files": [
             "registration.php"
